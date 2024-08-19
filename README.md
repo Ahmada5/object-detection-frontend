@@ -1,5 +1,11 @@
-# Vue 3 + TypeScript + Vite
+# On Progres
+this project is still on progres, the purpose is making an AI that can detect object through a camera in website.
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+### Link to the AI project
+[AI project](https://github.com/Ahmada5/object-detection.git)
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+### Get and run the project
+note: this project only for frontend, for complete function please cek the link above
+```
+git clone https://github.com/Ahmada5/object-detection-frontend.git && object-detection-frontend && npm i && npm run dev
+```
